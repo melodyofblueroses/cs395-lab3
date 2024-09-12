@@ -1,0 +1,114 @@
+* {
+   /* outline: 2px solid red; */
+}
+
+html {
+    margin: 20px;
+    padding: 20px;
+    background-color: lightcyan;
+}
+
+h2 {
+    font-size: 8em;
+    margin: 0px;
+    color: antiquewhite;
+    width: 1300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 32px;
+}
+
+hr { 
+    color: palevioletred;
+    width: 950px;
+    margin-left: 0;
+}
+
+header {
+    margin: 25px;
+    margin-left: 69px;
+    margin-right: 50px;
+    background-color: lightseagreen;
+    position: absolute;
+    color:white;
+    height: 600px;
+    width: 1590px;
+    padding-bottom: 19em;
+    padding-top: 5em;
+    padding-left: 92px;
+}
+
+.sidebar {
+    position: absolute;
+    margin-right: 100px;
+    background-color: rgba(204, 253, 127,0.9);
+    right: 20px;
+    top: 12em;
+    height: 45em;
+    width: 22em;
+    padding: 20px;
+    padding-top: 28px;
+    padding-bottom: 85px;
+    z-index: 2;
+}
+
+.extra {
+    background-color: rgba(51,55,69,0.9);
+    height: 64.4em;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    margin: 30px;
+    margin-top: 27px;
+    margin-right: 40px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 20em;
+    z-index: 1;
+  }
+
+#opener {
+    display: inline-block;
+    background-color: palevioletred;
+    padding: 15px;
+    color: white;
+    margin: 20px;
+    position: relative;
+    margin-left: -1px;
+    margin-bottom: 1em;
+}
+
+.box {
+    display: inline-block;
+    width: 950px;
+    background-color: white;
+    padding: 15px;
+    padding-left: 100px;
+    position: relative;
+    margin: 50px;
+    top: 650px;
+}
+
+.para {
+    font-variant: small-caps;
+    font-size: large;
+    width: 950px;
+}
+
+dd {
+    text-decoration: underline;
+    padding: 5px;
+}
+
+.color {
+    color: grey;
+    text-decoration: none;
+}
+
+
+
